@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSacc", "WebApiSacc\WebApiSacc.csproj", "{EB3EC613-087B-47E2-8131-F0D8BFC04286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Entidades", "WebApiEntidades\WebApi.Entidades.csproj", "{33CF8867-9A67-4C9A-A77C-A3E142F2ECF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Service", "ClassLibrary1\WebApi.Service.csproj", "{AF0FD1E0-E7F0-441F-BA2E-DE48ED3EFE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Data", "WebApi.Data\WebApi.Data.csproj", "{F30A580A-8A73-4939-9CB8-80826DB10835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3EC613-087B-47E2-8131-F0D8BFC04286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3EC613-087B-47E2-8131-F0D8BFC04286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3EC613-087B-47E2-8131-F0D8BFC04286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3EC613-087B-47E2-8131-F0D8BFC04286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CF8867-9A67-4C9A-A77C-A3E142F2ECF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CF8867-9A67-4C9A-A77C-A3E142F2ECF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CF8867-9A67-4C9A-A77C-A3E142F2ECF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CF8867-9A67-4C9A-A77C-A3E142F2ECF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0FD1E0-E7F0-441F-BA2E-DE48ED3EFE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0FD1E0-E7F0-441F-BA2E-DE48ED3EFE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0FD1E0-E7F0-441F-BA2E-DE48ED3EFE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0FD1E0-E7F0-441F-BA2E-DE48ED3EFE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30A580A-8A73-4939-9CB8-80826DB10835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30A580A-8A73-4939-9CB8-80826DB10835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30A580A-8A73-4939-9CB8-80826DB10835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30A580A-8A73-4939-9CB8-80826DB10835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
